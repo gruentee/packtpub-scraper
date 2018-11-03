@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter = "*"
+ipykernel = "*"
+requests = "*"
+matplotlib = "*"
+numpy = "*"
+tweepy = "*"
+wordcloud = "*"
+selenium = "*"
+feedparser = "*"
+plotly = "*"
+pytest = "*"
+pytest-cov = "*"
+Pillow = "*"
+PyGithub = "*"
+tornado = "*"
+spyder = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
